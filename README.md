@@ -2,10 +2,7 @@
 
 ---
 ![cost-12's Stats](https://github-readme-stats.vercel.app/api?username=cost-12&theme=dark&show_icons=true&hide_border=false&count_private=true)
----
-![cost-12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cost-12&theme=dark&hide_border=false)
----
-![cost-12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cost-12&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 <!--
 **cost-12/cost-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
