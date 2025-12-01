@@ -1,7 +1,7 @@
 ## Hey, good morning ☕
 
 ---
-![cost-12's Stats](https://github-readme-stats.vercel.app/api?username=cost-12&theme=dark&show_icons=true&hide_border=false&count_private=true)
+[![cost-12's Stats](https://github-readme-stats.vercel.app/api?username=cost-12&theme=dark&show_icons=true&hide_border=false&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **cost-12/cost-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
