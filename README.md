@@ -1,8 +1,6 @@
 ## Hey, good morning ☕
 
 ---
-[![Cost-12 GitHub stats](https://github-readme-stats.vercel.app/api?username=cost-12)](https://github.com/cost-12/cost-12)
-
 <!--
 **cost-12/cost-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
