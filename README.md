@@ -1,6 +1,13 @@
 ## Hey, good morning ☕
 
 ---
+<!-- Cartão Geral de Estatísticas -->
+![Estatísticas do GitHub](https://vercel.app)
+
+<!-- Linguagens mais utilizadas -->
+![Linguagens mais usadas](https://vercel.app)
+
+
 <!--
 **cost-12/cost-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
